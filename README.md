@@ -33,7 +33,7 @@ Bibliotecas:
 ## Código de Referência 
 O código a seguir fornece uma estrutura base para a análise solicitada:
 
-[- Código Fonte -](https://github.com/BrunoBassoo/Probability-and-Statistics/edit/main/Trabalho_P&B.ipynb)
+[- Código Fonte -](https://github.com/BrunoBassoo/Probability-and-Statistics/blob/main/Trabalho_P%26E.ipynb)
 
 ## Resultados Esperados
 - Métricas Estatísticas: Média, variância, desvio padrão e mediana de x e y.
