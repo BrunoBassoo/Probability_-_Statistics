@@ -1,4 +1,4 @@
-# |> Probability & Statistics <|
+# > Probability & Statistics <
 
 ## Descrição do Projeto
 Este projeto tem como objetivo realizar uma análise de dados utilizando Python ou R, aplicando técnicas de estatística e visualização. O trabalho envolve a preparação de uma apresentação com os códigos, gráficos e resultados obtidos.
