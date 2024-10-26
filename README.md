@@ -6,7 +6,7 @@ Este projeto tem como objetivo realizar uma análise de dados utilizando Python 
 ## Estrutura do Trabalho 
  
 - Escolha de Dados:
-Baixar um arquivo .csv, e no nosso caso usamos:  ['winequality.csv'](https://github.com/BrunoBassoo/Probability-and-Statistics/edit/main/README.md)
+Baixar um arquivo .csv, e no nosso caso usamos:  ['winequality.csv'](https://github.com/BrunoBassoo/Probability-and-Statistics/edit/main/winequality.csv)
 
 - Estatísticas Descritivas:
 Calcular média, variância, desvio padrão e mediana para as variáveis x e y.
