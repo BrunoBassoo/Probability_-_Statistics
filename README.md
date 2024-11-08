@@ -41,3 +41,6 @@ O código a seguir fornece uma estrutura base para a análise solicitada:
 - Coeficiente de Correlação: Quantificar a relação linear entre x e y.
 - Teste de Normalidade: Avaliar se as distribuições de x e y seguem uma distribuição normal.
 - Gráficos de Densidade: Identificar padrões de densidade para x e y.
+
+## Apresentação
+https://www.canva.com/design/DAGV5gXheC0/_uobcIk307n4tMDc4dnbYA/edit?utm_content=DAGV5gXheC0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
