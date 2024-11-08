@@ -43,4 +43,4 @@ O código a seguir fornece uma estrutura base para a análise solicitada:
 - Gráficos de Densidade: Identificar padrões de densidade para x e y.
 
 ## Apresentação
-https://www.canva.com/design/DAGV5gXheC0/_uobcIk307n4tMDc4dnbYA/edit?utm_content=DAGV5gXheC0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<a href="https://www.canva.com/design/DAGV5gXheC0/_uobcIk307n4tMDc4dnbYA/edit?utm_content=DAGV5gXheC0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Apresentação no Canva: Projeto de Probabilidade e Estatística</a>
